@@ -1,0 +1,37 @@
+{
+  "editor.fontSize": 15,
+  "files.autoSave": "onFocusChange",
+  "editor.tabSize": 1,
+  "editor.wordWrap": "on",
+  "terminal.integrated.fontSize": 16,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "eslint.enable": true,
+  "editor.minimap.enabled": false,
+  "prettier.jsxSingleQuote": true,
+  "prettier.embeddedLanguageFormatting": "off",
+  "prettier.semi": true,
+  "prettier.singleQuote": true,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+  },
+  "editor.cursorBlinking": "expand",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "[typescript]": {},
+  "eslint.codeActionsOnSave.rules": [],
+  "[typescriptreact]": {},
+  "files.associations": {
+    "*.tsx": "typescriptreact"
+  },
+  "diffEditor.ignoreTrimWhitespace": false,
+  "eslint.format.enable": true,
+  "window.zoomLevel": -1
+}
